@@ -68,4 +68,5 @@ Contributions are welcome. Please fork the repository and submit a pull request 
 
 This project is licensed under the MIT License.
 
+![Screenshot 2025-03-24 233532](https://github.com/user-attachments/assets/4f866448-cbdd-4438-a50c-3a83b718e180)
 
