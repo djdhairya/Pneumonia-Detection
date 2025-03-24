@@ -17,7 +17,7 @@ To set up the project environment:
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/yourusername/pneumonia-detection.git
+   git clone https://github.com/djdhairya/Pneumonia-Detection.git
    cd pneumonia-detection
    ```
 
